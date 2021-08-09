@@ -71,7 +71,6 @@ function addVideoStream(video, stream) {
 }
 
 
-
 const scrollToBottom = () => {
   var d = $('.main__chat_window');
   d.scrollTop(d.prop("scrollHeight"));
